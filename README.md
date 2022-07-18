@@ -3,10 +3,11 @@ Remake of clasic Snake but with smooth movement
 
 # smoother movement?
 off
-https://user-images.githubusercontent.com/105662208/179599735-1176f8b3-2c0c-4715-a370-5635798d7a31.mp4
+https://user-images.githubusercontent.com/105662208/179600750-ef4054a5-5f07-4143-930a-08cb3e87f9dd.gif
 
 on
-https://user-images.githubusercontent.com/105662208/179599899-397fef74-c443-4f67-a728-c36ff94ccb79.mp4
+https://user-images.githubusercontent.com/105662208/179600821-954a3f4a-60d7-4593-b048-afd386034075.gif
+
 
 # known bugs: 
   - player can go in opposite direction of travel running into itself
