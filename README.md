@@ -2,11 +2,8 @@
 Remake of clasic Snake but with smooth movement
 
 # smoother movement?
-off
-![nosmooth](https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/nosmooth.gif)
-
-on
-![smooth](https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/smooth.gif)
+![nosmooth](https://user-images.githubusercontent.com/105662208/179602665-e9d40cc1-88f5-4bb6-9a65-51488aa5ca42.gif)
+![smooth](https://user-images.githubusercontent.com/105662208/179602675-0196ac1e-456b-4ecc-b40b-7cb34232c3b3.gif)
 
 
 # known bugs: 
@@ -18,3 +15,4 @@ on
   - impliment input buffering for more responsive controls
   
  
+
