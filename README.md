@@ -3,10 +3,10 @@ Remake of clasic Snake but with smooth movement
 
 # smoother movement?
 off
-[no smooth](https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/no smooth.gif)
+![nosmooth](https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/nosmooth.gif)
 
 on
-[smooth](https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/smooth.gif)
+![smooth](https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/smooth.gif)
 
 
 # known bugs: 
