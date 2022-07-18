@@ -3,10 +3,10 @@ Remake of clasic Snake but with smooth movement
 
 # smoother movement?
 off
-https://user-images.githubusercontent.com/105662208/179600750-ef4054a5-5f07-4143-930a-08cb3e87f9dd.gif
+https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/no smooth.gif
 
 on
-https://user-images.githubusercontent.com/105662208/179600821-954a3f4a-60d7-4593-b048-afd386034075.gif
+https://github.com/itsnixko/Smooth-Snake/tree/main/Demo/smooth.gif
 
 
 # known bugs: 
